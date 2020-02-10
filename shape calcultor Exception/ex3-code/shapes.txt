@@ -1,0 +1,4 @@
+cre r 10 10
+cre c 9
+cre t 8 8
+area 1
